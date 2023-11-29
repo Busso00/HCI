@@ -5,5 +5,5 @@ HCI course material
 Assignement-N.pdf are the version to deliver to professor
 </li>
 <li>
-Heuristic_evaluation_material folder contains material on which heuristic evaluation must be performed 
+Heuristic_evaluation_material folder contains material on which heuristic evaluation <br> must be performed 
 </li>
