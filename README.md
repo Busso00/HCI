@@ -8,6 +8,6 @@ Assignement-N.pdf are the version to deliver to professor
 A2_updated_navigation_map.pdf contain an updated version of navigation map for A2
 </li>
 <li>
-Heuristic_evaluation folder contains picture on which heuristic evaluation must be performed 
+Heuristic_evaluation_material contains picture on which heuristic evaluation must be performed 
 </li>
 
