@@ -5,5 +5,9 @@ HCI course material
 Assignement-N.pdf are the version to deliver to professor
 </li>
 <li>
+A2_updated_navigation_map.pdf contain an updated version of navigation map for A2
+</li>
+<li>
 Heuristic_evaluation folder contains picture on which heuristic evaluation must be performed 
 </li>
+
